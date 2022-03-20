@@ -14,7 +14,7 @@
 	<name>CRUD</name>
 	<description>SPRING - MONGO KEVIN AGUILAR - M5B</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
